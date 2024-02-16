@@ -26,7 +26,7 @@
 </g>
 <text id="Presents" fill="black" xml:space="preserve" style="white-space: pre" font-family="Geist" font-size="8" font-weight="300" letter-spacing="0.13em"><tspan x="22" y="67.8">PRESENTS</tspan></text>
 </g>
-<text id="EV TECH DAY" fill="black" xml:space="preserve" style="white-space: pre" font-family="Geist Mono" font-size="11" font-weight="300" letter-spacing="0em"><tspan x="22" y="101.85">EV TECH DAY</tspan></text>
+<text id="Spring &#38; grinding days 2024" fill="black" xml:space="preserve" style="white-space: pre" font-family="Geist Mono" font-size="11" font-weight="300" letter-spacing="0em"><tspan x="22" y="101.85">SPRING &#38; GRINDING DAYS 2024</tspan></text>
 <g id="Frame 60">
 <path id="logo3 1" d="M6.5 305H46.5V321.709H6.5V305Z" fill="url(#pattern0)"/>
 <g id="Group_2">
@@ -118,20 +118,6 @@
 <text id="first-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Geist" font-size="24" letter-spacing="0em"><tspan x="22" y="144.4">NIK</tspan></text>
 </g>
 <rect id="qr-code 1" x="22" y="219" width="70" height="70" fill="url(#pattern5)"/>
-<g id="Nnneon generator 1">
-<g id="Group_15">
-<g id="Vector_57" filter="url(#filter0_f_5574_40)">
-<path d="M167 203.625L133.625 270.375H200.375L167 203.625Z" stroke="#FF8A05" stroke-width="16"/>
-</g>
-<g id="Vector_58" opacity="0.25" filter="url(#filter1_f_5574_40)">
-<path d="M169.67 203.625L136.295 270.375H203.045L169.67 203.625Z" stroke="#FF8A05" stroke-width="16"/>
-</g>
-<g id="Vector_59" opacity="0.25" filter="url(#filter2_f_5574_40)">
-<path d="M164.33 203.625L130.955 270.375H197.705L164.33 203.625Z" stroke="#FF8A05" stroke-width="16"/>
-</g>
-<path id="Vector_60" d="M167 203.625L133.625 270.375H200.375L167 203.625Z" stroke="#FF8A05" stroke-width="16"/>
-</g>
-</g>
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
@@ -152,21 +138,6 @@
 <pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image5_5574_40" transform="scale(0.00806452)"/>
 </pattern>
-<filter id="filter0_f_5574_40" x="86.6807" y="151.736" width="160.639" height="160.639" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="17" result="effect1_foregroundBlur_5574_40"/>
-</filter>
-<filter id="filter1_f_5574_40" x="103.351" y="165.736" width="132.639" height="132.639" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_5574_40"/>
-</filter>
-<filter id="filter2_f_5574_40" x="98.0107" y="165.736" width="132.639" height="132.639" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
-<feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_5574_40"/>
-</filter>
 <linearGradient id="paint0_linear_5574_40" x1="89.1237" y1="317.545" x2="92.4193" y2="317.545" gradientUnits="userSpaceOnUse">
 <stop stop-color="#836632"/>
 <stop offset="0.3418" stop-color="#BE9244"/>
