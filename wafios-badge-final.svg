@@ -110,7 +110,7 @@
 <rect id="logo4 1" x="246.5" y="306.463" width="34" height="13.7838" fill="url(#pattern4)"/>
 </g>
 <rect id="Rectangle 17" y="328" width="288" height="33" fill="#183E80"/>
-<text id="ATTENDEE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Geist Mono" font-size="24" font-weight="208" letter-spacing="0em"><tspan x="86" y="354.4">ATTENDEE</tspan></text>
+<text id="ATTENDEE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="24" font-weight="900" letter-spacing="0em"><tspan x="79" y="353.227">ATTENDEE</tspan></text>
 <g id="Group 9">
 <text id="company" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em"><tspan x="21" y="205.591">WAFIOS</tspan></text>
 <text id="title" fill="#010101" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="600" letter-spacing="0em"><tspan x="22" y="188.727">SOFTWARE ENGINEER</tspan></text>
