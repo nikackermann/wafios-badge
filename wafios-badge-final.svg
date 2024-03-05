@@ -112,7 +112,7 @@
 <rect id="Rectangle 17" y="328" width="288" height="33" fill="#183E80"/>
 <text id="ATTENDEE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Geist Mono" font-size="24" font-weight="208" letter-spacing="0em"><tspan x="86" y="354.4">ATTENDEE</tspan></text>
 <g id="Group 9">
-<text id="company" fill="#858585" xml:space="preserve" style="white-space: pre" font-family="Geist" font-size="12" letter-spacing="0em"><tspan x="22" y="199.7">WAFIOS</tspan></text>
+<text id="company" fill="#858585" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0em"><tspan x="22" y="199.864">WAFIOS</tspan></text>
 <text id="title" fill="#858585" xml:space="preserve" style="white-space: pre" font-family="Geist" font-size="12" letter-spacing="0em"><tspan x="22" y="184.7">SOFTWARE ENGINEER</tspan></text>
 <text id="last-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Geist" font-size="24" letter-spacing="0em"><tspan x="22" y="168.4">ACKERMANN</tspan></text>
 <text id="first-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Geist" font-size="24" letter-spacing="0em"><tspan x="22" y="144.4">NIK</tspan></text>
