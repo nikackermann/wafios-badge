@@ -14,13 +14,13 @@
 </g>
 </g>
 <rect id="Rectangle 17" y="328" width="288" height="33" fill="#183E80"/>
-<text id="ATTENDEE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" font-weight="900" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="352.273">ATTENDEE</tspan></text>
+<text id="ATTENDEE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" font-weight="900" letter-spacing="0em" text-anchor="middle" x="144" y="352.273">ATTENDEE</text>
 <rect id="qr-code 1" x="109" y="236" width="70" height="70" fill="url(#pattern0_6_5022)"/>
 <g id="Frame 13">
-<text id="first-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="800" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="117.182">NIK</tspan></text>
-<text id="last-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="800" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="154.182">ACKERMANN</tspan></text>
-<text id="title" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="177.591">DEVELOPER</tspan></text>
-<text id="company" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="900" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="199.318">WAFIOS</tspan></text>
+<text id="first-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="800" letter-spacing="0em" text-anchor="middle" x="144" y="123.182">NIK</text>
+<text id="last-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="800" letter-spacing="0em" text-anchor="middle" x="144" y="160.182">ACKERMANN</text>
+<text id="title" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em" text-anchor="middle" x="144" y="183.591">DEVELOPER</text>
+<text id="company" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="900" letter-spacing="0em" text-anchor="middle" x="144" y="203.591">WAFIOS</text>
 </g>
 </g>
 <defs>
