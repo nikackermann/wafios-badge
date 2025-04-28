@@ -17,7 +17,7 @@
 <text id="ATTENDEE" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="20" font-weight="900" letter-spacing="0em"><tspan x="90" y="352.273">ATTENDEE</tspan></text>
 <rect id="qr-code 1" x="109" y="236" width="70" height="70" fill="url(#pattern0_6_5022)"/>
 <g id="Frame 13">
-<text id="first-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="900" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="120.182">NELSON</tspan></text>
+<text id="first-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="900" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="120.182">Nelson</tspan></text>
 <text id="last-name" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="28" font-weight="900" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="156.182">TESTTESTTEST</tspan></text>
 <text id="title" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="178.591">DEVELOPER</tspan></text>
 <text id="company" fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="14" font-weight="600" letter-spacing="0em" text-anchor="middle"><tspan x="144" y="197.591">WAFIOS</tspan></text>
